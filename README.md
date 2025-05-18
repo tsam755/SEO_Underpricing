@@ -94,3 +94,6 @@ Final model selection was based on performance metrics such as accuracy, F1-scor
 - CRSP/Compustat Merged Database – WRDS  
 - FRED – U.S. Economic Indicators  
 - OpenAI ChatGPT (2024) – Support for exploratory insights
+
+## ❗️Disclaimer
+This project was developed as part of academic coursework and is shared here for educational and profolio purpose. Unauthorised use, reproduction or distribution is not permitted and may violate academic integrity policies.
